@@ -4,3 +4,4 @@
 <h2> This is what complete End-to-End CI-CD pipeline DevOps Project!! </h2>
 <h2> We are done with DevOps Project-2 </h2>
 <h2> hello world </h2>
+<h2> giving try for automation </h2>
